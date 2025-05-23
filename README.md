@@ -1,6 +1,6 @@
 ## Restaurant Menu Card ##
 This is Restaurant Menu Card, my first project developed using Flutter.
-It showcases a clean and organized digital menu layout, ideal for restaurants and cafés.
+It showcases a clean and organized digital menu layout, ideal for restaurants and cafés
 
 ## About ##
 Built with Flutter framework
