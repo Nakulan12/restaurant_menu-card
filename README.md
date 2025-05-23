@@ -7,4 +7,4 @@ Built with Flutter framework
 
 Simple, responsive, and easy to customize
 
-Organized sections for different categories of food and beverages.
+Organized sections for different categories of food and beverages
